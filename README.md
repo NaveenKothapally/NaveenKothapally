@@ -20,9 +20,8 @@
   <a href="https://www.facebook.com/people/Naveen-Reddy/100014330850637/" target = "_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="60">
   </a>
-  <a href="https://wa.me/919515306769?text=Hello+Kothapally+Naveen+I%27m+contacting+you+from+your+GitHub+profile" target = "_blank">
+  <a href="https://wa.me/917995272848?text=Hello+Kothapally+Naveen+I%27m+contacting+you+from+your+GitHub+profile" target = "_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png" width="60">
   </a>
-
   <p>Search me on google for more details : "Kothapally Naveen"</p>
 </div>
