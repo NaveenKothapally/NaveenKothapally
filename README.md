@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=400&color=0B38F7&width=435&lines=%F0%9F%9A%80+Digital+Electronics;%F0%9F%92%BB+Full+Stack+Web+Developer;%E2%9A%A1IOT+and+Embedded+Systems;%F0%9F%A4%96+Machine+Learning+Using+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=400&color=0B38F7&width=435&lines=%F0%9F%9A%80+Digital+Electronics;%F0%9F%92%BB+Full+Stack+Web+Developer;%E2%9A%A1IOT+and+Embedded+Systems;%F0%9F%A4%96+Machine+Learning+Using+Python)](https://git.io/typing-svg)
 </div>
 
 
